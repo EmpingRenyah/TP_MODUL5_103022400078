@@ -1,5 +1,4 @@
-﻿
-public class HaloGeneric
+﻿public class HaloGeneric
 {
     public static void SapaUser(string name)
     {
